@@ -1,0 +1,24 @@
+# Bison-generated files
+*.tab.c
+*.tab.h
+lex.yy.c
+
+# Compiled binaries
+trad
+back
+trad.exe
+back.exe
+
+# Object files
+*.o
+
+# Editor and OS artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE directories
+.vscode/
+.idea/

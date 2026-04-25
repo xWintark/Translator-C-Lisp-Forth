@@ -1,0 +1,12 @@
+# System dependencies required to build this project
+#
+# Install on Debian/Ubuntu:
+#   sudo apt install build-essential bison
+# Install on macOS:
+#   brew install bison gcc
+# Install on Windows:
+#   Use WSL or MinGW/MSYS2 with:
+#   pacman -S mingw-w64-x86_64-gcc bison make
+
+gcc >= 7.0
+bison >= 3.0
